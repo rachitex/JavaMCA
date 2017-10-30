@@ -1,6 +1,6 @@
 /* Write a program to find Factorial of a given number*/
 
-class Prog2{
+class Factorial{
 	public static void main(String[] args){
 		int i,fact=1;  
   		int number=5;//It is the number to calculate factorial    
