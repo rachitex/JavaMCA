@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Prog7{
+class PrimeArray{
 	public static void main(String args[]){
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter the size of Array: ");
