@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Prog10{
+class SwitchCase{
 	public static void main(String args[]){
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter a choice to display a day of week (Number 1 to 7): ");
