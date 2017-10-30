@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Prog11{
+class NestedSwitch{
 	public static void main(String args[]){
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter first Number: ");
@@ -15,7 +15,7 @@ class Prog11{
 		
 		switch(choice){
 			case 1: 
-				System.out.println("\n\n Arithmetic Operations : \n1.  \n2. - \n3. * \n4. /");
+				System.out.println("\n\n Arithmetic Operations : \n1. +  \n2. - \n3. * \n4. /");
 				System.out.print("Enter an Operation to be performed: ");
 				int operation = scan.nextInt();			
 				switch(operation){
