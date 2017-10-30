@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Prog5{
+class NestedIf{
   public static void main(String args[]){
     Scanner scan = new Scanner(System.in);
     System.out.print("Enter Marks of Subject1: ");
