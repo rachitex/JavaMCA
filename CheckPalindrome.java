@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Prog12{
+class CheckPalindrome{
 	public static void main(String args[]){
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter a Number: ");
