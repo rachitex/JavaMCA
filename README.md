@@ -1,2 +1,2 @@
-# JavaMCA
+# core-java
 Programs of Java
