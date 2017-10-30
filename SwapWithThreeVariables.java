@@ -1,6 +1,6 @@
 /* Write a Program to swap two numbers using the third variable*/
 
-class Prog1b{
+class SwapWithThreeVariables{
 	public static void main(String[] args){
 		int a=6;
 		int b=5;
