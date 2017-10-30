@@ -1,6 +1,6 @@
 /* Write a program to display the usage of break and continue */
 
-class Prog8{
+class BreakContinue{
 	public static void main(String args[]){
 		int a[] = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};
 		
