@@ -1,6 +1,6 @@
 /*Write a program to find Maximum, Minimum and Average number*/
 
-class Prog3{
+class MaxMinAvg{
 	public static void main(String[] args){
 		int[] a = { 5,8,9,6,7,1,0,3,4,2 };
 
