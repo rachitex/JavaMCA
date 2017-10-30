@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Prog6{
+class CheckPrime{
   public static void main(String args[]){
     Scanner scan = new Scanner(System.in);
     System.out.print("Enter the Number: ");
