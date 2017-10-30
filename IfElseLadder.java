@@ -1,5 +1,5 @@
 /* Program to show the usage of if else ladder */
-class Prog4{
+class IfElseLadder{
   public static void main(String args[]){
     int subject1=27,subject2=27,subject3=27;
     int total=subject1+subject2+subject3;
