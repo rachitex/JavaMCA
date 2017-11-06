@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 
-class Exercise4{
+class SearchCountry{
 	public static void main(String args[]) throws Exception{
 		try{
 			FileReader fr = new FileReader("Country.txt");			
