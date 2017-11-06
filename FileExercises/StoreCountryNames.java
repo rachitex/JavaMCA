@@ -3,7 +3,7 @@
 import java.util.*;
 import java.io.*;
 
-class Exercise2{
+class StoreCountryNames{
 	public static void main(String args[]) throws Exception{
 		try{
 			FileWriter fstream = new FileWriter("Country.txt");
