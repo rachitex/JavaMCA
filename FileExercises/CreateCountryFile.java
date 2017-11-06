@@ -2,7 +2,7 @@
 
 import java.io.*;
 	
-class CreatingFile{
+class CreateCountryFile{
 	public static void main(String args[]) throws Exception{
 		try{
 			File fil = new File("Country.txt");
