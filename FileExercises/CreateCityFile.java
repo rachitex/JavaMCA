@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 	
-class Exercise5{
+class CreateCityFile{
 	public static void main(String args[]) throws Exception{
 		try{
 			File fil = new File("City.txt");
