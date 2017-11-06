@@ -2,7 +2,7 @@
 
 import java.io.*;
 
-class Exercise6{
+class CreateMergeFile{
 	public static void main(String args[]) throws Exception{
 		try{
 			FileWriter fmerge = new FileWriter("Merge.txt");
