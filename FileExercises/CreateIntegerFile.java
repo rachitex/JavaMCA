@@ -31,7 +31,7 @@ class Exercise8{
 			System.out.println("(4) Sort the Integers.txt");
 			System.out.println("(5) Sort the Numbers into SortedIntegers.txt");		
 			try{
-			System.out.print("\nEnter Choice: ");
+			System.out.print("\nEnter Choice(-9999 to exit): ");
 			choice = scan.nextInt();
 			switch(choice){
 					case 1:	
