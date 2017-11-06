@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 
-class Exercise7{
+class FileMethodsExample{
 	public static void main(String args[]) throws Exception{
 		File file = new File("Country.txt");
 		try{
