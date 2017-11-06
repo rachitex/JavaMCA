@@ -9,7 +9,7 @@
 import java.util.*;
 import java.io.*;
 
-class Exercise9{
+class BinaryAndTextFile{
 	public static void main(String args[]){
 		Scanner scan = new Scanner(System.in);
 		int choice = 0;
