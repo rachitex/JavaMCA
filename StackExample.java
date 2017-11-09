@@ -13,7 +13,7 @@ class StackExample{
 		int element = 0;
 		try{
 			// Stack push
-			for(int i = 0; i < 10; i++){
+			for(int i = 0; i < num; i++){
 				System.out.print("Push: "+i+ " element: ");
 				element = scan.nextInt();
 				stack.push(element);
@@ -25,7 +25,7 @@ class StackExample{
 			System.out.println(stack);
 
 			// Stack pop
-			for(int i = 0; i < 10; i++){
+			for(int i = 0; i < num; i++){
 				System.out.print("Pop: "+i+ " element: ");
 				int y = (int) stack.pop();
 				System.out.println("Popping: "+element);
