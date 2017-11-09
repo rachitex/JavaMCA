@@ -7,7 +7,7 @@ import java.util.*;
 
 class StackExample{
 	public static void main(String args[]){
-		Stack<Integer> stack = new Stack<Integer>(); 
+		Stack stack = new Stack(); 
 		Scanner scan = new Scanner(System.in);
 		int num = 10;
 		int element = 0;
