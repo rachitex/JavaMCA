@@ -1,5 +1,5 @@
 /**
-	Create a class Stack that defines an integer stack that can hold 10 values. Perform push and pop actions in a stack.
+	Stack that defines an integer stack that can hold 10 values. Perform push and pop actions in a stack.
 
 **/
 
