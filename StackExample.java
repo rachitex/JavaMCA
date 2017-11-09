@@ -18,7 +18,7 @@ class StackExample{
 				element = scan.nextInt();
 				stack.push(element);
 				System.out.print("Pushing :"+ element);
-				//System.out.println("The Stack is : ");
+				System.out.println(stack);
 				System.out.println("\nPushed: "+element);
 			}
 			System.out.println("\nStack is: ");
@@ -29,6 +29,7 @@ class StackExample{
 				System.out.print("Pop: "+i+ " element: ");
 				stack.pop();
 				System.out.println("Popping: "+element);
+				System.out.println(stack);
 		    		System.out.println("\nPopped: "+element);
 			}
 			System.out.println("\nUpdated Stack is: ");
