@@ -26,7 +26,7 @@ class StackExample{
 
 			// Stack pop
 			for(int i = 0; i < num; i++){
-				System.out.print("Pop: "+i+ " element: ");
+				System.out.print("\nPop: "+i+ " element: ");
 				stack.pop();
 				System.out.println("Popping: "+element);
 				System.out.println(stack);
